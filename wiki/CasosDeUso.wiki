@@ -7,7 +7,7 @@ Esta página será dedicada a explicação e visualização de casos de uso do *
 
 == Inscrições == 
 
-http://i.imgur.com/Gs6yN79.png
+http://i.imgur.com/do6zF7F.png
 
 === Inscrever edital ===
 
@@ -25,7 +25,7 @@ Ambos os casos estão representados aqui:
 
 == Reembolsos ==
 
-http://i.imgur.com/gPgEio6.png
+http://i.imgur.com/OTHEsD6.png
 
 O docente associado a um projeto preencherá um formulário não qual pedirá recursos além dos disponíveis originalmente para o seu projeto, em tal formulário será vital que ele informe os porquês de tal alto (Pode ser por exemplo para pagar os custos extras de uma viagem). 
 
@@ -33,7 +33,7 @@ O gestor deverá ser capaz de aceitar ou negar o pedido e reembolsar os gastos.
 
 == Alerta ==
 
-http://i.imgur.com/mgGaVSv.png
+http://i.imgur.com/do6zF7F.png
 
 Este caso de uso permitirá que o gestor programe datas específicas no quais serão disparados alertas de forma automática cobrando relatórios.
  
@@ -43,6 +43,6 @@ Tanto o alerta, quanto as mensagens deverão aparecer na interface associada aos
 
 == Mostrar dados ==
 
-http://i.imgur.com/MtEdt2N.png
+http://i.imgur.com/Y3es8i2.png
 
 Caso de uso em que o gestor poderá recuperar dados de forma inteligente do Banco de Dados. 
