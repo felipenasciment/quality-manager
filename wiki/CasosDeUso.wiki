@@ -19,7 +19,6 @@ Este caso permite a adição de um projeto. Para tal, um docente deverá preench
 
 As regras de adição do projeto serão definidas pelo Edital a qual ele estará se associando.  
 
-Ambos os casos estão representados aqui:
 
 
 
@@ -27,7 +26,7 @@ Ambos os casos estão representados aqui:
 
 http://i.imgur.com/OTHEsD6.png
 
-O docente associado a um projeto preencherá um formulário não qual pedirá recursos além dos disponíveis originalmente para o seu projeto, em tal formulário será vital que ele informe os porquês de tal alto (Pode ser por exemplo para pagar os custos extras de uma viagem). 
+O docente associado a um projeto preencherá um formulário na qual pedirá recursos além dos disponíveis originalmente para o seu projeto, em tal formulário será vital que ele informe os porquês de tal alto (Pode ser por exemplo para pagar os custos extras de uma viagem). 
 
 O gestor deverá ser capaz de aceitar ou negar o pedido e reembolsar os gastos. 
 
