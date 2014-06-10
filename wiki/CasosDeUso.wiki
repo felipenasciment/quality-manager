@@ -3,7 +3,7 @@
 
 == Introdução ==
 
-Esta página será dedicada a explicação de casos de uso do *Quality Manager*. 
+Esta página será dedicada a explicação e visualização de casos de uso do *Quality Manager*. 
 
 == Inscrições == 
 
