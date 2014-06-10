@@ -1,0 +1,44 @@
+#summary One-sentence summary of this page.
+#labels Documentação
+
+== Introdução ==
+
+Esta página será dedicada a explicação de casos de uso do *Quality Manager*. 
+
+== Inscrições == 
+
+http://i.imgur.com/Gs6yN79.png
+
+=== Inscrever edital ===
+
+Este caso permite a adição de um Edital. Para tal, um gestor deverá preencher um formulário cujo conteúdo entrará na base de dados do sistema.	
+
+=== Inscrever projeto ===
+
+Este caso permite a adição de um projeto. Para tal, um docente deverá preencher um formulário cujo conteúdo entrará na base de dados do sistema. 
+
+As regras de adição do projeto serão definidas pelo Edital a qual ele estará se associando.  
+
+Ambos os casos estão representados aqui:
+
+
+
+== Reembolsos ==
+
+http://i.imgur.com/gPgEio6.png
+
+O docente associado a um projeto preencherá um formulário não qual pedirá recursos além dos disponíveis originalmente para o seu projeto, em tal formulário será vital que ele informe os porquês de tal alto (Pode ser por exemplo para pagar os custos extras de uma viagem). 
+
+O gestor deverá ser capaz de aceitar ou negar o pedido e reembolsar os gastos. 
+
+== Alerta ==
+
+Este caso de uso permitirá que o gestor programe datas específicas no quais serão disparados alertas de forma automática cobrando relatórios.
+ 
+Também permitirá que o gestor escreva em um box e mande mensagens “aleatórias” para os membros de um projeto. 
+
+Tanto o alerta, quanto as mensagens deverão aparecer na interface associada aos discentes e docentes e deverão ser enviadas para os e-mails dos mesmos. 
+
+== Mostrar dados ==
+
+Caso de uso em que o gestor poderá recuperar dados de forma inteligente do Banco de Dados. 
