@@ -5,9 +5,19 @@
 
 Esta página será dedicada a explicação e visualização de casos de uso do *Quality Manager*. 
 
+== Login == 
+
+http://i.imgur.com/vYbMz3i.jpg
+
+Validará a entrada de agentes no sistema. 
+
 == Inscrições == 
 
-http://i.imgur.com/fvsuDLp.png
+http://i.imgur.com/zTypNeZ.png
+
+=== Inscrever programa institucional ===
+
+Este caso permite a adição de um Edital. Para tal, um gestor deverá preencher um formulário cujo conteúdo entrará na base de dados do sistema.	
 
 === Inscrever edital ===
 
@@ -18,9 +28,6 @@ Este caso permite a adição de um Edital. Para tal, um gestor deverá preencher
 Este caso permite a adição de um projeto. Para tal, um docente deverá preencher um formulário cujo conteúdo entrará na base de dados do sistema. 
 
 As regras de adição do projeto serão definidas pelo Edital a qual ele estará se associando.  
-
-
-
 
 == Reembolsos ==
 
@@ -45,3 +52,9 @@ Tanto o alerta, quanto as mensagens deverão aparecer na interface associada aos
 http://i.imgur.com/Y3es8i2.png
 
 Caso de uso em que o gestor poderá recuperar dados de forma inteligente do Banco de Dados. 
+
+== Gerenciamento de Projeto ==
+
+http://i.imgur.com/PWmcVni.jpg
+
+O Docente gerenciará o projeto através do envio de relatórios e controle de orientandos envolvidos.
