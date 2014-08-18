@@ -1,0 +1,24 @@
+#summary One-sentence summary of this page.
+#labels Documentação
+
+= Introduction =
+
+*O que tem um caso de uso?*
+
+*Seção do Caso de Uso:* Comentário
+*Nome do Caso de Uso:* Começar com um verbo
+*Escopo* O sistema em projeto
+*Nível* “Objetivo do usuário” ou “sub-função”
+*Ator principal* Chama o sistema para fornecer os serviços
+*Interessados e interesses* Quem se importa com este caso de uso e o que eles desejam?
+*Pré-condições* O que precisa ser verdade de início e vale a pena dizer ao leitor?
+*Garantia de sucesso* O que precisa ser verdade quando da finalização bem sucedida e se vale a pena dizer ao leitor
+*Cenário de sucesso principal* Um caminho típico, incondicional e otimista do cenário de sucesso
+*Extensões* Cenários alternativos de sucesso ou fracasso
+*Requisitos especiais* Requisitos não funcionais relacionados
+*Lista de variantes tecnológicas e de dados* Métodos de entrada e saída e formatos de dados variáveis
+*Frequência de ocorrência* Influencia a investigação, teste e oportunidade da implementação
+*Diversos* Como, por exemplo, pontos em aberto
+
+
+= Details =
